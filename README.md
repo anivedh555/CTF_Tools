@@ -1,13 +1,13 @@
 # General purpose
 
-010 Editor - Hex editor
-VSCode - Text editor
-Terminator - Terminal emulator
+- 010 Editor - Hex editor
+- VSCode - Text editor
+- Terminator - Terminal emulator
 
 
 # Low-level reversing
-IDA - Reversing IDE
-Ghidra - Reversing IDE
+- IDA - Reversing IDE
+- Ghidra - Reversing IDE
 Binary Ninja - Reversing IDE
 radare2 - Reversing framework
 capstone - Disassembly framework
