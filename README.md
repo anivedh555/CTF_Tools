@@ -1,11 +1,11 @@
-#General purpose
+# General purpose
 
 010 Editor - Hex editor
 VSCode - Text editor
 Terminator - Terminal emulator
 
 
-Low-level reversing
+# Low-level reversing
 IDA - Reversing IDE
 Ghidra - Reversing IDE
 Binary Ninja - Reversing IDE
@@ -26,7 +26,7 @@ no$gmb - Game Boy emulator w/ debugger
 fceux - NES emulator w/ debugger
 
 
-High-level reversing
+# High-level reversing
 uncompyle2 - Python disassembler & decompiler
 bytecode-viewer - Android/Java decompiler
 apktool - Android reversing
@@ -34,12 +34,12 @@ dnSpy - .NET debug/decompile
 trepan2 - Python debugger
 
 
-Forensics
+# Forensics
 JohnTheRipper - password cracking
 extundelete - File recovery for EXT
 Volatility - Memory forensics
 
-Networking
+# Networking
 Wireshark - Network traffic analyzer
 Tshark - CLI network traffic analyzer
 NetworkMiner - PCAP file carver
@@ -47,7 +47,7 @@ nmap - Network scanner
 socat - SOcket CAT
 ngrok - Public reverse proxy
 
-File formats
+# File formats
 binwalk - File type analyzer
 oletools - Parse OLE files (old Office)
 PNGAnalyzer - PNG file analyzer
@@ -57,14 +57,14 @@ Audacity - Audio processing
 origami - PDF analysis framework
 zbarimg - QR code reader
 
-DSP
+# DSP
 GNU Radio - Signals processing
 grc - GNU Radio Companion, IDE for GNU radio
 baudline - Signal processing GUI
 sigrok - Signal analysis
 
 
-Web
+# Web
 Burp Suite - Web attack framework
 dvcs-ripper - Version control downloader
 sqlmap - SQL injection scanner
@@ -74,17 +74,17 @@ zap - OWASP web scanner
 proxychains - Tor proxying
 
 
-Math/general science
+# Math/general science
 z3 - SMT solver
 sagemath - Math library
 graphviz - Graph visualization
 matplotlib - Python plot library
 scipy/numpy - scientific Python
 
-Cryptography
+# Cryptography
 RsaCtfTool - Various attacks and tools on RSA
 
-Exploitation
+# Exploitation
 pwndbg - gdb plugin
 preeny - preload libraries for exploitation
 rp++
@@ -92,11 +92,11 @@ ROPgadget - Find ROP gadgets
 pwntools - Tools and library for pwning
 AFL - Fuzzing tool
 
-Libraries/other
+# Libraries/other
 Pillow - Python image library
 
 
-Legacy (stuff I no longer find useful)
+# Legacy (stuff I no longer find useful)
 cgc2elf - Convert CGC to ELF executable
 nikto - Web scanner
 CeWL - Wordlist spider
