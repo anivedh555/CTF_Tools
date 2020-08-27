@@ -3,6 +3,8 @@
 - 010 Editor - Hex editor
 - VSCode - Text editor
 - Terminator - Terminal emulator
+- Vim
+- Nano
 
 
 # Low-level reversing
